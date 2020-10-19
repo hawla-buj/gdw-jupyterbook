@@ -1,0 +1,53 @@
+# KW 43: Einführung in das dsci-lab
+
+
+
+## gdw-jupyterbook klonen
+
+Das Verzeichnis `gdw-jupyterbook` im dsci-lab erstmals anlegen:  Das (hier) gleichnamige Github-Projekt klonen. 
+
+```sh
+cd ~/dsci/
+git clone https://github.com/hawla-buj/gdw-jupyterbook
+```
+
+Wichtig: Unter-Verzeichnisse des Verzeichnis `~/dsci/`, die Sie von Github geklont haben, mögen sie bitte NICHT verändern: Denn Sie wollen beim nächsten `git pull` ja keine Inkonsistenzen mit Ihren eigenen Änderungen erhalten. (Eine klollaborative Versionsverwaltung geht, kommt aber erst später dran).
+
+Aktualisierungen abrufen geht so:
+
+```sh
+cd ~/dsci/gdw-jupyterbook/
+git pull
+```
+
+Solange Sie nicht mit (komplexem) Versions-Merging arbeiten, bitte manuell die jeweils neuen Inhalte aus  `~/dsci/gdw-jupyterbook/` in die eigene Mitschrift einfügen.
+
+
+## gdw-jupyterbook: Eigene Arbeitskopie erzeugen
+
+Selbst editieren und spielen mit o.a. Seiten bitte so:
+
+```sh
+# ggf. Verzeichnis anlegen:
+# mkdir ~/mein-dsci/
+
+cd ~/mein-dsci/
+cp -r ~/dsci/gdw-jupyterbook/ .
+```
+
+Jetzt können Sie die Dateien in  `~/mein-dsci/gdw-jupyterbook/` editieren.
+
+**Herstellen der HTML-Version**:
+
+```sh
+cd ~/mein-dsci/gdw-jupyterbook/
+jupyterbook build .
+```
+
+
+
+
+
+
+
+
