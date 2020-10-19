@@ -1,0 +1,253 @@
+
+
+Ziele der WIF? (3 Items)?
+
+* (Beispiel-Antwort:) Entwurf, Implementierung, Betrieb von Informationssystemen in Unternehmen und Organisationen unter Berücksichtigung der betriebswirtschaftlichen Randbedingungen. 
+
+Zusammenhang von WIF, BWL und Informatik?
+
+Gründe für die zunehmende Bedeutung der WIF? (4 Items)
+
+Informationsmanagement
+
+CIO
+
+Wertschöpfungskette
+
+Informationslogistische Prinzipien? (5 Items)
+
+DSS
+
+Reporting Systems
+
+CRM
+ 
+Compliance
+
+Outsourcing
+
+Offshoring
+
+ERP
+ 
+Customizing
+
+Konfiguration
+
+BPM
+BPR
+ 
+Medienbruch
+ 
+agiles Projektmanagement
+
+Big Data
+
+Cloud Computing
+
+align
+enable
+IT‐Strategie
+IT‐Governance
+Informationsmanagement
+IT‐Management
+Porter’s Wettbewerbskräfte
+Wertschöpfungsketten
+Normstrategien
+Information Age
+Digitale Transformation
+
+Enabler
+
+IT-Business Alignment
+
+Pflichtenheft
+Lastenheft
+
+effizient
+
+effektiv
+
+Primat der Unternehmens-Strategie?
+
+Umsetzung des Primats der Unternehmens-Strategie?
+
+EWIM-Modell
+
+SAM-Modell
+
+vier Hauptszenarien des EWIM-Modells
+ 
+
+Begriff Service Level?
+
+Wie werden Corporate Governance und klassisches IT-Management in Verbindung gebracht?
+
+Begriff Compliance?
+
+Begriff IT Governance?
+
+Begriff IT Service Management?
+
+Rahmenwerke für IT Governance und IT Service Management? (vgl. auch abb. 7)
+
+Zusammenhang der Disziplinen im strategischen IT Alignment (Abb. 6)?
+
+### 2.2 Informationsmanagement
+
+
+Aufgaben des CIO?
+
+Ein CIO leitet gleichzeitig auch die IT-Abteilung: gut oder schlecht?
+
+Informationsmanagement:
+ 
+Begriff?
+ 
+Aufgaben?
+ 
+Bedeutung nach Krcmar (2015)?
+ 
+Wer war/ist Krcmar?
+
+Unterschied Management der Informationswirtschaft / der Informationssysteme / der Informations- und Kommunikationstechnik?
+
+Begriffe Sourcing-Strategie, Outsourcing, Off-Shoring, Near-Shoring
+
+Typische Fragen der IT-Standardisierung
+
+Ultimatives Ziel des Informationsmanagements?
+
+## Schritt 3: Betriebliche Informationssysteme
+
+zentrale Schlagwörter Informationssystem (IS)
+Anwendungssystem (AS)
+Funktionale und hierarchische Informationssysteme
+Transaction Processing System (TPS) / Operative Systeme
+Decision Support System (DSS) / Entscheidungsunterstützungssysteme
+Management Information Systems (MIS) / Managementsystem
+Executive Support Systems (ESS) / Führungsunterstützungssysteme
+Enterprise Resource Planning (ERP)
+Customer Relationship Management (CRM)
+Supply Chain Management (SCM)
+
+### 3.1 Vom Anwendungssystem zum betrieblichen Informationssystem
+
+
+Die drei Kernelemente von betreblichen IS?
+
+Unterschied IS und AS?
+
+Die vier Subsysteme von AS?
+
+Begriff Customizing?
+
+Kann man ein IS fertig kaufen? Begründen Sie!
+
+### 3.2 Informationssysteme aus hierarchischer und funktionaler Sicht
+
+
+Beispiele für operative, taktische, strategische Systeme
+
+TPS, MIS, DSS, ESS
+ 
+Aufgaben?
+ 
+Zuordnung zu welchen Ebenen aus Abb. 11?
+
+Funktionen im Betrieb: Stellen Sie als Mindmap dar! Auftragsbearbeitung
+Debitorenverwaltung
+Fertigung & Produktion
+Finanzwesen
+Kreditorenverwaltung
+Kundenverwaltung
+Lohnbuchhaltung
+Materialwirtschaft
+Personalverwaltung
+Personalwesen
+Produktionsplanung
+Rechnungswesen
+Vertrieb & Marketing
+Zeiterfassung
+
+Google nach Begriffen:
+ 
+Medienbruch
+ 
+horizontale Integration vs. vertikale Integration
+
+### 3.3 Häufig vorkommende Informationssysteme in Unternehmen
+
+
+Kernelemente betrieblicher Informationssysteme?
+
+Enterprise Resource Planning (ERP)
+
+Customer Relationship Management (CRM)
+
+Supply Chain Management (SCM)
+
+Just-in-time, Just-in-sequence
+
+Wertschöpfungskette, -Netz
+
+Bull-Whip-Effekt, Peitscheneffekt
+ 
+Falsche Interpretation von Nachfragesignalen
+ 
+Auftragsbündelung
+ 
+Engpasspoker
+ 
+Preisschwankungen
+
+Dreh- und Angelpunkt in den meisten Unternehmen?
+
+weitere betriebliche Anwendungssysteme
+
+Workflow Management Systeme (WfMS)
+
+Dokumenten Management Systeme (DMS)
+
+Knowledge Management Systeme (KMS)
+
+Business Intelligence (BI)
+
+eShops / Webshops
+
+eProcurement / elektronischer Einkauf
+
+Computer Supported Collaborative Work (CSCW)
+
+### 3.4 Entwicklung betrieblicher Informationssysteme
+
+
+Enterprise Application Integration (EAI)
+
+hierarchische Integration
+
+Business Intelligence (BI)
+
+CSCW
+
+Digitale Transformation: Begriff
+
+Wie lässt sich Digitale Transformation umsetzen?
+
+TOGAF
+
+Zachmann Framework
+
+### Business Process Reengineering (BPR)
+
+
+Geschäftsprozessoptimierung (GPO)
+
+Kaizen
+
+kontinuierlichen Verbesserungsprozess (KVP)
+
+Beispiel für top-down, bottom-up?
+
+IT Service Management (ITSM)
+
