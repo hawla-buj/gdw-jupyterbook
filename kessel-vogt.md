@@ -318,22 +318,36 @@ IT Service Management (ITSM)
 
 
 Welche Schlagwörter lerne ich kennen?
- Wettbewerbskräftemodell		Normstrategien		Wertschöpfungskette	
-Strategischer	Nutzen		Strategische	Informationssysteme
+
+
+Wettbewerbskräftemodell
+
+Normstrategien
+
+Wertschöpfungskette
+
+Strategischer Nutzen
+
+Strategische Informationssysteme
 
 Bestimmung der IT-Strategie nach Porter? (3 Items)
 
 
 ### 4.2 Wettbewerbskräftemodell (5-Forces)
 
-Wozu dient Porter’s	 Wettbewerbskräftemodell (5-Forces)? (Kasten S. 59)
+Wozu dient Porter’s Wettbewerbskräftemodell (5-Forces)? (Kasten S. 59)
 
 5 Items von Porter’s Wettbewerbskräftemodell?
-Branche	bzw.	bestehende	Konkurrenz
-mögliche	Neueinsteiger	am	Markt
-Ersatzprodukte	und	‐dienstleistungen
-Verhandlungsmacht	der	Kunden
-Verhandlungsmacht	der	Lieferanten
+
+Branche bzw. bestehende Konkurrenz
+
+mögliche Neueinsteiger am Markt
+
+Ersatzprodukte und ‐dienstleistungen
+
+Verhandlungsmacht der Kunden
+
+Verhandlungsmacht der Lieferanten
 
 Erläuterns Sie am Beispiel der Automobilindustrie 
 
@@ -341,55 +355,81 @@ Erläuterns Sie am Beispiel der Automobilindustrie
 
 die 3 Items von Porter's Normstrategien
 
- Kostenführerschaft
- Differenzierung
- Fokussierungsstrategie
 
-Wofür geben Die	Normstrategien	nach	Porter	(Kostenführerschaft,	Differenzierung,	 Fokussierungsstrategie)	 geben	 wertvollen	 Input?
 
-vier	 Standardszenarien	 für	die	 Anwendung	der	Normstrategien	nach	Porter
+Kostenführerschaft
 
-breiter	Markt	–	niedrige	Preise:	Kostenführerschaft
- breiter	Markt	–	hohe	Preise:	Differenzierung
- beschränkter	Markt	–	niedrige	Preise:	Fokussierung	auf	bestimmtes	Produktspektrum	und	Klientel,	jedoch	liegt	der	Schwerpunkt	auf	günstigen	Produkten
- beschränkter	Markt	–	hohe	Preise:	Fokussierung	auf	bestimmtes	Produktspektrum	und	Klientel,	jedoch	liegt	der	Schwerpunkt	auf	eher	knappen und	sehr	exklusiven	Gütern
+
+Differenzierung
+
+
+Fokussierungsstrategie
+
+Wofür geben Die Normstrategien nach Porter (Kostenführerschaft, Differenzierung, Fokussierungsstrategie) geben wertvollen Input?
+
+vier Standardszenarien für die Anwendung der Normstrategien nach Porter
+
+breiter Markt – niedrige Preise: Kostenführerschaft
+
+
+breiter Markt – hohe Preise: Differenzierung
+
+
+beschränkter Markt – niedrige Preise: Fokussierung auf bestimmtes Produktspektrum und Klientel, jedoch liegt der Schwerpunkt auf günstigen Produkten
+
+
+beschränkter Markt – hohe Preise: Fokussierung auf bestimmtes Produktspektrum und Klientel, jedoch liegt der Schwerpunkt auf eher knappen und sehr exklusiven Gütern
 
 ### Wertschöpfungskettenanalyse
 
 Begriff und Items Prozess?
-Reihenfolge	 zusammenhängender	 Aktivitäten,
-wiederholbar
-definierter	Input	sowie	Output	haben,
-wertschöpfend
-richtet sich möglichst	am	Kunden	aus
 
-Wofür ist die Wertschöpfungskettenanalyse nach Porter (Porter’s Value Chain) ein	geeignetes	Mittel? 
+Aktivität
+
+wiederholbar
+
+definierter Input sowie Output
+
+wertschöpfend
+
+richtet sich möglichst am Kunden aus
+
+Wofür ist die Wertschöpfungskettenanalyse nach Porter (Porter’s Value Chain) ein geeignetes Mittel? 
 
 Abb. 16 als Mindmap
 
 
 primäre Aktivitäten
 
-Eingangslogistik:	Bezieht	sich	auf	die	Einlagerung	von	Materialien	bzw.	die Bereitstellung	von	Ressourcen	und	liefert	diese	bei	Bedarf	an	die	Produktion.
+Eingangslogistik: Bezieht sich auf die Einlagerung von Materialien bzw. die Bereitstellung von Ressourcen und liefert diese bei Bedarf an die Produktion.
 
- Produktion:	 Wandelt	 die	 Materialien	 bzw.	 Ressourcen	 in	 Produkte	 oder Services	eines	Unternehmens.
- Vertrieb & Marketing:	 Bewirbt	 die	 Produkte	 bzw.	 die	 Services,	 kümmert sich	um	die	Preisgestaltung	und	verkauft	diese	an	den	Kunden.
- Ausgangslogistik:	 Kümmert	 sich	 um	 die	 Auslieferung	 des	 Produkts	 oder des	Services.
- Kundenservice:	 Kümmert	 sich	 um	 den	 After‐Sales‐Bereich	 und	 gibt	 entsprechenden	Support	zum	gekauften	Produkt	oder	Service.
+
+
+Produktion: Wandelt die Materialien bzw. Ressourcen in Produkte oder Services eines Unternehmens.
+
+
+Vertrieb & Marketing: Bewirbt die Produkte bzw. die Services, kümmert sich um die Preisgestaltung und verkauft diese an den Kunden.
+
+
+Ausgangslogistik: Kümmert sich um die Auslieferung des Produkts oder des Services.
+
+
+Kundenservice: Kümmert sich um den After‐Sales‐Bereich und gibt entsprechenden Support zum gekauften Produkt oder Service.
 
 
 unterstützende Aktivitäten
 
-Unternehmensinfrastruktur:	Dies	beinhaltet	die	Organisationsstrukturen,
-Rechtsform,	 Gebäudetopologie,	 Versorgungssysteme	 (Strom,	 Wasser,	 IT‐
-Netzwerke)	etc.
- Personalwesen:	 Kümmert	 sich	 um	 Personalangelegenheiten	 (Trainings,
-Einstellungen,	Gehalt	etc.)
- Technologische Entwicklung:	Ist	für	die	technologische	Wieterentwicklung
-zuständig.	Z.B.	fällt	hier	die	IT‐	oder	die	Forschungs‐	und	Entwicklungsabtei‐
-lung	darunter.
- Beschaffung:	 Verhandelt	 mit	 Lieferanten	 und	 besorgt	 entsprechend	 benö‐
-tigte	Güter	und	Ressourcen,	welche	dann	die	Eingangslogistik	einlagert	und
+Unternehmensinfrastruktur: Dies beinhaltet die Organisationsstrukturen, Rechtsform, Gebäudetopologie, Versorgungssysteme (Strom, Wasser, IT‐Netzwerke) etc.
+
+
+Personalwesen: Kümmert sich um Personalangelegenheiten (Trainings, Einstellungen, Gehalt etc.)
+
+
+Technologische Entwicklung: Ist für die technologische Wieterentwicklung zuständig. Z.B. fällt hier die IT‐ oder die Forschungs‐ und Entwicklungsabtei‐
+lung darunter.
+
+
+Beschaffung: Verhandelt mit Lieferanten und besorgt entsprechend benötigte Güter und Ressourcen, welche dann die Eingangslogistik einlagert und
 verwaltet.
 
 
