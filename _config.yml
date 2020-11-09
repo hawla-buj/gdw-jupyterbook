@@ -2,7 +2,8 @@
 title: My sample book
 author: The Jupyter Book Community
 logo: logo.png
-
+execute:
+  execute_notebooks: off
 latex:
   latex_documents:
     targetname: book.tex
