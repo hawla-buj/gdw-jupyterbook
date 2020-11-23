@@ -380,7 +380,7 @@ beschränkter Markt – niedrige Preise: Fokussierung auf bestimmtes Produktspek
 
 beschränkter Markt – hohe Preise: Fokussierung auf bestimmtes Produktspektrum und Klientel, jedoch liegt der Schwerpunkt auf eher knappen und sehr exklusiven Gütern
 
-### Wertschöpfungskettenanalyse
+### 4.4 Wertschöpfungskettenanalyse
 
 Begriff und Items Prozess?
 
@@ -431,6 +431,193 @@ lung darunter.
 
 Beschaffung: Verhandelt mit Lieferanten und besorgt entsprechend benötigte Güter und Ressourcen, welche dann die Eingangslogistik einlagert und
 verwaltet.
+
+
+## Schritt 5: Strategische Informationssysteme und ihre Auswirkungen auf die Unternehmensorganisation
+
+Schlagwörter
+
+- Geschäftsmodelle
+- Wettbewerbsvorteil
+- Alleinstellungsmerkmale
+- Kostenvorteile
+- Hierarchien
+- Business Model Canvas
+- Agency Theorie 
+- Transaktionskosten‐Theorie
+- Agile und virtuelle Organisationsstrukturen
+- Computer Supported Collaborative Work (CSCW)
+- Kundenorientierte Massenfertigung (Konfiguratoren)
+- IS‐Portfolio Management
+
+## 5.1 Geschäftsmodelländerungen durch strategische Informationssysteme
+
+Begriff strategisches Informationssystem?
+
+Begriff disruptive Technologie
+
+Mit welchen 5 Items wird ein Geschäftsmodell beschrieben?
+
+Business Model Canvas nach Osterwalder und Pigneur 
+
+Value Proposition Canvas
+
+### 5.2 Transaktionskostentheorie
+
+Transaktionskosten: Begriff, Beispiele?
+
+Wie lassen sich Transaktionskosten senken?
+
+
+### 5.3 Agency-Theorie
+
+Begriffe Agent, Principal
+
+
+### 5.4 Agile und virtuelle Organisationsstrukturen
+
+Begriff agil
+
+Begriff Wertschöpfungsnetz
+
+Voraussetzungen für gelingende Wertschöpfungsnetze?
+
+Begriff Virtuelles Unternehmen
+
+### 5.5 Kundenorientierte Massenfertigung
+
+Begriff Mass Customization System? Voraussetzung?
+
+### 5.6 IS-Portfolio-Management
+
+Begriff IS-Portfolio-Management
+
+Parameter eines IS‐Investitionsportfolio (4 Items)
+
+Abbildung 23: Portfoliobewertung 
+
+Alternative zur Portfolio‐Analyse?
+
+## Schritt 6: E-Business & E-Commerce
+
+Schlagwörter
+
+- E‐Business
+- E‐Commerce
+- E‐Procurement
+- B2B
+- B2C
+- B2A
+- C2C
+- Click and Mortar
+- Mobile Business
+- Geschäftsmodelle im Internet
+- Digitale Transformation 
+
+
+### 6.1 Neue Geschäftsmodelle und Wertschöpfungsmöglichkeiten
+
+Begriff E-Business
+
+Teilbereiche des E-Business
+
+Begriff Digitale Transformation
+
+### 6.2 Kategorien des E-Commerce
+
+
+Kategorien des E-Commerce: 4 Items
+
+Begriff M‐Commerce
+
+weitere typische Internet‐Geschäftsmodelle (4 Items)
+
+Begriff Pure-Play-Geschäftsmodelle
+
+Begriff Click-and-Mortar
+
+Gründe für das Versagen einiger Dot-Com-Geschäftesmodelle?
+
+### 6.3 Auswirkungen des E-Business und E-Commerce
+
+Begriff Datenschutz 
+
+Begriff Datensicherheit
+
+
+
+
+
+
+## Schritt 9: Business Intelligence
+
+
+
+### 9.1 Entscheidungsunterstützungs- und Berichtssysteme
+
+
+```{admonition} text 2 mindmap
+
+Daten müssen erfasst, vorbereitet und analysiert werden. [...] Hierbei müssen eine Reihe von Fragestellungen und  Randbedingungen berücksichtigt werden:
+
+* Sowohl der Umfang der zu betreffenden Daten als auch die Geschwindigkeit, mit der sich die Daten ändern, steigt.
+
+* Die relevanten Daten sind auf verschiedene betriebliche Informationssysteme verteilt und in heterogenen Formaten verfügbar, sodass diese zuerst vereinheitlicht, strukturiert und konsolidiert werden müssen.
+
+* Der große Umfang der Daten und die aufwändigen Berechnungsverfahren der Analysen führen – aufgrund ihrer Komplexität ‐ zu erheblichen Verarbeitungszeiten.
+
+* Die Ergebnisse der Datenanalysen sind in der Regel als Entscheidungsgrundlagen für Führungs‐ und Leitungskräfte im mittleren und oberen Manage‐
+ment gedacht.
+
+* Datenbasierte Analysen ermöglichen eine bessere Transparenz und Nachvollziehbarkeit von Entscheidungsgrundlagen.
+
+
+Thomas Kessel, Marcus Vogt: Wirtschaftsinformatik Schritt für Schritt. Arbeitsbuch. 2., überarbeitete Auflage 2018, Kap. "9.1 Entscheidungsunterstützungs- und Berichtssysteme" (S. 113 ff)
+
+
+```
+
+
+
+
+Begriff BI?
+
+Prozesse, die von BI abgedeckt werden?
+
+Übergeordenete Ziele von BI?
+
+Phasen der Entscheidungsunterstützung? (3 items)
+
+### 9.2 Erfassung und Konsolidierung der Daten
+
+Begriff ETL?
+
+Begriff Data Warehouse?
+
+Unterschied Data Warehouse und Data Mart?
+
+Phasen der Extraktion?
+
+Phasen des Transfer?
+
+Phasen des Load?
+
+Begriff Daten-*Würfel*, Beispiel?
+
+Begriff OLAP?
+
+Begriff Data Mining (DM)?
+
+Zwei Verfahren des DM nach Kessel-Vogt?
+
+Anwendungen des DM im Unternehmen (4 items)
+
+
+
+### 9.4 Predictive Analytics
+
+Begriff Predictive Analytics (PA)?
+
 
 
 
